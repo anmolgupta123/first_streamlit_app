@@ -1,15 +1,10 @@
 
 import streamlit
-streamlit.title('BREAKFAST MENU FOR CUSTOMERS')
+streamlit.title('My Parents New Health Diner')
 
-streamlit.header('NORTH INDIAN')
-
-streamlit.header('Food')
-streamlit.text('Mix Parantha/Cheese Parantha/Gobi Parantha')
-
-
-streamlit.header('Beverages')
-streamlit.text('Pepsi/Coke Diet/Thums-Up')
-streamlit.text('Tea/Coffee')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
 
 
